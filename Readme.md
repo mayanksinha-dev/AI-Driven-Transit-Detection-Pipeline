@@ -13,7 +13,7 @@ Pipeline-A performs automated preprocessing of raw TESS light curves and generat
 ![Pipelinr Workflow](<workflow.png>)
 
 ---
-git push -u origin main
+
 ## Features
 
 ### 1. Flux Extraction
